@@ -1,4 +1,4 @@
-# Materialize-CSS-Part-2---JavaScript-Widgets 
+# Materialize-CSS-
 Testing new material css
 
 # Example of materialize css 
